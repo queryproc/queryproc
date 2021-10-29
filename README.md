@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**queryproc/queryproc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Ph.D. student at [University of Waterloo](https://uwaterloo.ca/) and member of the [Data Systems Group](https://uwaterloo.ca/data-systems-group/). I research query processing, optimization, and storage techniques. I integrate research ideas in an in-memory prototype DBMS called [GraphflowDB](http://graphflow.io/).  
+
+<!--**queryproc/queryproc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
