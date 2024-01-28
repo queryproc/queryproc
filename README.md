@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Ph.D. student at [University of Waterloo](https://uwaterloo.ca/) and member of the [Data Systems Group](https://uwaterloo.ca/data-systems-group/). I research query processing, optimization, and storage techniques. I integrate research ideas in an in-memory prototype DBMS called [GraphflowDB](http://graphflow.io/).  
+I am an assistant professor at [Polytechnique Montréal](https://www.polymtl.ca/) leading the [RAMEN 🍜 Lab](https://github.com/ramen-polymtl/). I am a interested in all aspect of data management: from performance considerations and debuggability, to interface design, and applications. I focus on building and analyzing data management systems with the goal of making them more efficient and reliable.
 
 <!--**queryproc/queryproc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
