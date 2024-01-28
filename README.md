@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an assistant professor at [Polytechnique Montréal](https://www.polymtl.ca/) leading the [RAMEN 🍜 Lab](https://github.com/ramen-polymtl/). I am a interested in all aspect of data management: from performance considerations and debuggability, to interface design, and applications. I focus on building and analyzing data management systems with the goal of making them more efficient and reliable.
+I am an assistant professor at [Polytechnique Montréal](https://www.polymtl.ca/) leading the [RAMEN 🍜 Lab](https://github.com/ramen-polymtl/). I am a interested in all aspect of data management: from performance considerations and debuggability, to interface design, and applications. I focus on building and analyzing data management systems to support individuals and organizations in: i) making data-driven decisions; and ii) executing data-centric workflows. Both over large and heterogeneous datasets.
 
 <!--**queryproc/queryproc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
