@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an [assistant professor](https://amine.io/) at [Polytechnique Montréal](https://www.polymtl.ca/) leading the [RAMEN 🍜 Lab](https://github.com/ramen-polymtl/).
+I am an [assistant professor](https://amine.io/) at [Polytechnique Montréal](https://www.polymtl.ca/) leading the [Data Systems Group](https://github.com/dsg-polymtl/).
 
 <!--**queryproc/queryproc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
