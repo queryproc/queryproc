@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an [assistant professor](https://amine.io/) at [Polytechnique Montréal](https://www.polymtl.ca/), engineering school of [Uni. de Montréal](https://www.umontreal.ca/en/). I lead the [Data and AI Systems Group](https://dais-polymtl.github.io/).
+I am an [assistant professor](https://amine.io/) at [Polytechnique Montréal](https://www.polymtl.ca/), engineering school of [Uni. de Montréal](https://www.umontreal.ca/en/). I lead the [DAIS Lab](https://dais-polymtl.github.io/).
 
 <!--**queryproc/queryproc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
