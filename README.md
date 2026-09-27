@@ -1,6 +1,11 @@
-### Hi there 👋
+### Bonjour 👋
 
-I am an [assistant professor](https://amine.io/) at [Polytechnique Montréal](https://www.polymtl.ca/), engineering school of [U. Montréal](https://www.umontreal.ca/en/). I lead the [DAIS Lab](https://dais-polymtl.github.io/).
+I work on data management systems, with a particular focus on query execution and optimization, and infrastructure for AI agents and AI-integrated applications.  
+      
+My research currently centers on two directions: (i) designing query engines for analytical and semantic processing 
+(e.g., [Flock](https://arxiv.org/abs/2504.01157) integrated into [DuckDB](https://duckdb.org/community_extensions/extensions/flock) and [FFX](https://arxiv.org/abs/2609.09002v1); and (ii) building reliable AI systems via code generation ([Distillery](https://arxiv.org/abs/2408.07702)), human-guided adaptation ([GenEdit](https://arxiv.org/abs/2503.21602)), and benchmark mutation ([SQLMorph](https://arxiv.org/abs/2609.08950).   
+    
+I am currently an assistant professor at [Polytechnique Montréal](https://amine.io), an associate academic at [Mila (Québec AI Institute)](https://mila.quebec/en), and occasionally serve as a technical advisor in industry.
 
 <!--**queryproc/queryproc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
